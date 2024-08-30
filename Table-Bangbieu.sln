@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Table-Bangbieu", ".", "{3FB16C87-ACC5-485F-B9CC-B025BB667B5F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_65136"
+		Debug.AspNetCompiler.PhysicalPath = "..\Table-Bangbieu\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65136\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_65136"
+		Release.AspNetCompiler.PhysicalPath = "..\Table-Bangbieu\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65136\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "65136"
+		SlnRelativePath = "..\Table-Bangbieu\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB16C87-ACC5-485F-B9CC-B025BB667B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB16C87-ACC5-485F-B9CC-B025BB667B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0087F057-CEDF-4D81-BE43-CB14C5F3C491}
+	EndGlobalSection
+EndGlobal
